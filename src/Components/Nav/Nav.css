@@ -1,0 +1,15 @@
+@import "~antd/dist/antd.css";
+
+.headerStyle{
+    background-color: rgb(36, 202, 214);
+    font-size: 30px;
+    margin-left: -20px;
+}
+
+.searchbar{
+    size: 20%;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 30%;
+    width: 50%;
+}
